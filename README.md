@@ -40,7 +40,7 @@ The performance of the models is evaluated using various metrics, including accu
 - Decision Tree Classifier achieved an accuracy of 78%.
 - Random Forest Classifier achieved an accuracy of 80%.
 
-![Confusion Matrix Heatmap](C:\Users\ulyaa\OneDrive\Изображения\Снимки экрана\ConfMat.png)
+![ConfMat](https://github.com/UlianaEzubchik/Customer_Curn_Prediction/assets/88460922/80277634-55b6-4555-be9c-bf63bea2a3d6)
 
 ## Dependencies
 
