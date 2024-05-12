@@ -24,7 +24,7 @@ The data set includes information about:
 
 - **Handling Missing Values:** Any missing values in the dataset are addressed using appropriate techniques such as imputation or removal.
 - **Feature Encoding:** Categorical features are encoded using techniques like Label Encoding or One-Hot Encoding to prepare them for model training.
-- **Train-Test Split:** The dataset is split into training and testing sets to evaluate the performance of the models.
+- **Stratified Cross-Validation:** To ensure robust model evaluation, a Stratified K-Fold Cross-Validation approach is employed, splitting the dataset into training and testing sets while preserving the class distribution.
 
 ### Model Selection
 
@@ -40,7 +40,7 @@ The performance of the models is evaluated using various metrics, including accu
 - Decision Tree Classifier achieved an accuracy of 78%.
 - Random Forest Classifier achieved an accuracy of 80%.
 
-![Confusion Matrix Heatmap]("C:\Users\ulyaa\OneDrive\Изображения\Снимки экрана\ConfMat.png")
+![Confusion Matrix Heatmap](C:\Users\ulyaa\OneDrive\Изображения\Снимки экрана\ConfMat.png)
 
 ## Dependencies
 
