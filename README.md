@@ -1,5 +1,5 @@
 # Customer Churn Prediction
-Customer churn presiction using Decision Trees and Random Forest algorithms.
+Customer churn prediction using Decision Trees and Random Forest algorithms.
 
 ## Overview
 
